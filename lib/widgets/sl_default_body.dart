@@ -18,10 +18,6 @@ abstract class SLDefaultBody extends StatelessWidget {
   Widget buildBody(BuildContext context);
 
   void onStart(Duration timeStamp) {
-    /// 테스트
-
-    /*
-     * 주석 테스트
-     */
+    // nothing to do
   }
 }
